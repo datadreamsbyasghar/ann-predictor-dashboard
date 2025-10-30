@@ -75,7 +75,7 @@ Building production-grade ML dashboards for real-world impact
 ---
 
 ## 📸 Demo Preview 
-![Dashboard Preview](Home.png)
+![Dashboard Preview](Home tab.png)
 
 ---
 
