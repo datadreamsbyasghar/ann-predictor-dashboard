@@ -75,7 +75,7 @@ Building production-grade ML dashboards for real-world impact
 ---
 
 ## 📸 Demo Preview 
-All .png file which i add as file are teh demo of the api and frontend
+![Dashboard Preview](Home.png)
 
 ---
 
