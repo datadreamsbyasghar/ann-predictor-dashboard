@@ -74,8 +74,8 @@ Building production-grade ML dashboards for real-world impact
 
 ---
 
-## 📸 Demo Preview (Coming Soon)
-Add a screenshot or GIF here once your UI is polished
+## 📸 Demo Preview 
+![Dashboard Preview]("C:\Users\Dream\OneDrive\Pictures\Screenshots\Home tab.png")
 
 ---
 
